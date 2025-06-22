@@ -1,6 +1,7 @@
 # Ignore node_modules and environment files
 node_modules/
 .env
+coverage/
 
 # Ignore DB-related data
 backend/data/
